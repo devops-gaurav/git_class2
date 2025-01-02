@@ -1,1 +1,3 @@
-this is the first file we have created and tracked via git
+this is the first file we have created and tracked via git.
+
+This is the same file we modified for second time to check git -a -m option.
